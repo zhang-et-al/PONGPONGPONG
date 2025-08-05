@@ -11,4 +11,4 @@ An entirey homemade and highly incomplete classical mechanics simulator. For the
 
 I will be adding these features as time comes.
 
-![](https://raw.githubusercontent.com/zhang-et-al/PONGPONGPONG/main/img/ppd.gif)
+![](https://raw.githubusercontent.com/zhang-et-al/PONGPONGPONG/main/pics/ppd.gif)
